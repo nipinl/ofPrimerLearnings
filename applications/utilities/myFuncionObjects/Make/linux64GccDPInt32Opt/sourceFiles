@@ -1,0 +1,10 @@
+SOURCE = \
+ofPrime_myFO/ofPrime_myFO.C \
+testFO/testFO.C \
+test1FO/test1FO.C \
+phaseCellsFunctionObject/phaseCellsFunctionObject.C \
+vorticity2/vorticity2.C \
+vorticity/vorticity.C \
+helicity/helicity.C \
+
+# sources

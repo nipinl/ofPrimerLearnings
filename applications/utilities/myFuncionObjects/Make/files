@@ -1,0 +1,9 @@
+ofPrime_myFO/ofPrime_myFO.C 
+testFO/testFO.C
+test1FO/test1FO.C
+phaseCellsFunctionObject/phaseCellsFunctionObject.C
+vorticity2/vorticity2.C
+vorticity/vorticity.C
+helicity/helicity.C
+
+LIB = $(FOAM_USER_LIBBIN)/libmyFunctionObjects
