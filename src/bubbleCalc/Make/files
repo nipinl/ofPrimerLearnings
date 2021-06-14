@@ -1,0 +1,3 @@
+isoBubble.C
+
+LIB = $(FOAM_USER_LIBBIN)/libbubbleCalc
