@@ -1,0 +1,4 @@
+tabulatedRigidBodyDisplacement/tabulatedRigidBodyDisplacementPointPatchVectorField.C
+recirculationControl/recirculationControlFvPatchFields.C 
+
+LIB = $(FOAM_USER_LIBBIN)/libofPrimerBoundaryConditions

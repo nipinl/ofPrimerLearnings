@@ -1,0 +1,3 @@
+zeroGradientFvPatchField/zeroGradientFvPatchFields.C
+
+LIB = $(FOAM_USER_LIBBIN)/libofPTest
